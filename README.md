@@ -2,9 +2,7 @@
 
 ---
 
-## Key Components
-
-Related Repositories
+## Related Repositories
 
 [Backend - Spring Boot](https://github.com/arturlarkin/polling-api-demo)
 
